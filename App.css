@@ -1,0 +1,40 @@
+body{
+background-color: blanchedalmond;
+ 
+}
+h1{
+  font-style: italic;
+  margin-top: 50px;
+  color: crimson;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+p{
+  
+  font-size: 20px;
+  text-align: center;
+  font-style: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+.outputButton{
+  margin-left: 630px;
+}
+button{
+  padding: 5px;
+  text-align: center;
+  padding: 10px;
+  margin: 15px;
+  border: 2px solid black;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+ color: black;
+  background-color: cornflowerblue;
+  border-radius: 10%;
+  
+ 
+}
+.buttondiv{
+  margin-left: 500px;
+}
